@@ -1,0 +1,21 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Variables de entorno / credenciales
+.env
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Sistema
+.DS_Store
+Thumbs.db
