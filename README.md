@@ -107,8 +107,17 @@ IA_WORK/
 
 ## 🔐 Seguridad
 
-✔️ API Key protegida con .env
-✔️ .gitignore configurado correctamente
-✔️ Sin credenciales hardcodeadas
-✔️ Buenas prácticas para proyectos reales
+✔️ API Key protegida con .env  
+✔️ .gitignore configurado correctamente  
+✔️ Sin credenciales hardcodeadas  
+✔️ Buenas prácticas para proyectos reales  
+
+# 👨‍💻 Autor
+**Julio Solano**  
+🔗 [GitHub](https://github.com/solanomillo)  
+📧 solanomillo144@gmail.com
+
+# 📄 Licencia
+Este proyecto está bajo la licencia MIT.
+Podés usarlo, compartirlo y modificarlo libremente.
 
